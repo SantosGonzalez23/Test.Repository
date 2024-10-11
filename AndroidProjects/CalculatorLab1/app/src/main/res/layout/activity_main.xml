@@ -279,7 +279,7 @@
               android:textColor="@color/white"
               android:textSize="32dp"
               app:cornerRadius="36dp"
-              android:backgroundTint="#FF8D8F93"/>
+              android:backgroundTint="#FF8033"/>
 
           <com.google.android.material.button.MaterialButton
               android:id="@+id/button_dot"
